@@ -40,7 +40,7 @@ jbehave-login-test/
 │   └── test/
 │       └── java/
 │           └── com/
-│               └── lamdatest/
+│               └── lamdbatest/
 │                   └── jbehave/
 │                       └── login/
 │                           ├── LoginSteps.java
@@ -115,4 +115,5 @@ If the test runs successfully, you can view the session details, logs, and scree
 - If you face network issues, consider using [LambdaTest Tunnel](https://www.lambdatest.com/support/docs/real-time-testing-troubleshooting/).
 - You can find your LambdaTest credentials on the [Username and Access Key page](https://accounts.lambdatest.com/security/username-accesskey).
 ```
+
 
